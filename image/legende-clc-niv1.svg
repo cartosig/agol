@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 865 82" style="enable-background:new 0 0 865 82;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Calibri-Bold';}
+	.st1{font-size:15px;}
+	.st2{font-family:'Calibri-Light';}
+	.st3{font-size:13px;}
+	.st4{fill:#E6655A;}
+	.st5{fill:#F8F7D6;}
+	.st6{fill:#B5C866;}
+	.st7{fill:#AFAADE;}
+	.st8{fill:#44D6D2;}
+</style>
+<g>
+	<text transform="matrix(1 0 0 1 10.1738 19.6523)"><tspan x="0" y="0" class="st0 st1">Légende :</tspan><tspan x="59.74" y="0" class="st2 st3"> </tspan></text>
+</g>
+<g>
+	<rect x="14" y="35.95" class="st4" width="37" height="22"/>
+	<rect x="191.75" y="35.95" class="st5" width="37" height="22"/>
+	<rect x="369.5" y="35.95" class="st6" width="37" height="22"/>
+	<rect x="578.25" y="35.95" class="st7" width="37" height="22"/>
+	<rect x="725" y="35.95" class="st8" width="37" height="22"/>
+	<text transform="matrix(1 0 0 1 58.1304 50.5052)" class="st2 st3">Territoires artificialisés</text>
+	<g>
+		<text transform="matrix(1 0 0 1 235.4346 50.5052)" class="st2 st3">Territoires agricoles</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 412 50.5049)" class="st2 st3">Forêts et milieux semi-naturels</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 621 50.5052)" class="st2 st3">Zones humides</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 769.3477 50.5049)" class="st2 st3">Surfaces en eau</text>
+	</g>
+</g>
+</svg>
